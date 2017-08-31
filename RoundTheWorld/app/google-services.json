@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740464842129",
+    "firebase_url": "https://roundtheworld-13779.firebaseio.com",
+    "project_id": "roundtheworld-13779",
+    "storage_bucket": "roundtheworld-13779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740464842129:android:b4508f33d979c633",
+        "android_client_info": {
+          "package_name": "com.springpebbles.roundtheworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740464842129-i8ec8vnorc10rj2gb8fdjh2q50ed583m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.springpebbles.roundtheworld",
+            "certificate_hash": "7643d971214cd98fa3b1c01e6d96b9dc697b589e"
+          }
+        },
+        {
+          "client_id": "740464842129-h2v20qiqnav6b28cs2q9fkesmitaml65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Xn8OFE-W6KhMFGZRVx5mmYi7zMbQ1vE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740464842129-h2v20qiqnav6b28cs2q9fkesmitaml65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

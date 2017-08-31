@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoundTheWorld</string>
+    <string name="open_location">Open Location</string>
+    <string name="current_gps_loaction">Current GPS Loaction</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6249242764892548/9304077718</string>
+    <string name="please_wait">Taking You Round \nThe World....</string>
+</resources>
